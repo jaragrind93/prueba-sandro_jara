@@ -1,2 +1,2 @@
 # TestCalculadora
-Elvis Bolo
+Sandro Jara
